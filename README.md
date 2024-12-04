@@ -20,9 +20,9 @@ This repository contains an automation project focused on testing the key module
 
 ## 🎬 Project Demonstration
 
-Signup Functionality Demo - https://raw.githubusercontent.com/DewniAlahakoon/Magento-Ecommerce-Automation/main/video1.mkv
-Login Functionality Demo -  https://raw.githubusercontent.com/DewniAlahakoon/Magento-Ecommerce-Automation/main/video2.mkv
-Entire Order Placement Flow Demo - https://raw.githubusercontent.com/DewniAlahakoon/Magento-Ecommerce-Automation/main/video3.zip
+- Signup Functionality Demo - https://raw.githubusercontent.com/DewniAlahakoon/Magento-Ecommerce-Automation/main/video1.mkv
+- Login Functionality Demo -  https://raw.githubusercontent.com/DewniAlahakoon/Magento-Ecommerce-Automation/main/video2.mkv
+- Entire Order Placement Flow Demo - https://raw.githubusercontent.com/DewniAlahakoon/Magento-Ecommerce-Automation/main/video3.zip
 
 ## 📝 Note
 This project will be continuously updated to include ExtentReports integration for better reporting.
