@@ -2,7 +2,7 @@
 
 ## 📌 About This Project
 
-This repository contains an automation project focused on testing the key modules of the Magento Ecommerce platform[Magento website](https://magento.softwaretestingboard.com/), including registration, login, cart, checkout, and order placement. The primary goal of this project is to demonstrate the automation of major functionalities of a Magento-based web application using Selenium with Java. This project aims to enhance test automation skills and demonstrate effective test case execution across a real-world ecommerce platform.
+This repository contains an automation project focused on testing the key modules of the Magento Ecommerce platform [Magento website](https://magento.softwaretestingboard.com/), including registration, login, cart, checkout, and order placement. The primary goal of this project is to demonstrate the automation of major functionalities of a Magento-based web application using Selenium with Java. This project aims to enhance test automation skills and demonstrate effective test case execution across a real-world ecommerce platform.
 
 ## ⚙️ Tech Stack
 - **Programming Language**: Java
