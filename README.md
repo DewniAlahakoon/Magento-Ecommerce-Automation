@@ -18,12 +18,19 @@ This repository contains an automation project focused on testing the key module
 ## 🏗️ Project Design
 - **Page Object Model (POM)**
 - **Data-Driven Approach**
-- 
+  
 ## 📊 Reporting
 The framework generates HTML reports for all test classes, stored in the reports folder. Clicking on these reports will display detailed descriptions of each execution. Below are the reports for all three test classes:
 
+1. Shopping flow test
 ![image](https://github.com/user-attachments/assets/9b5a1ed9-3c65-4a44-8d54-8e5e0c2b2e42)
+![image](https://github.com/user-attachments/assets/869f12ca-296b-4959-8ba3-5fe748a9f6f2)
 
+2. Login test
+![image](https://github.com/user-attachments/assets/29394513-5150-44ec-91bc-e049dae718bc)
+
+3. Register test
+![image](https://github.com/user-attachments/assets/dd4fe669-ac86-47b0-b404-25280b221c84)
 
 ## 🎬 Project Demonstration
 
