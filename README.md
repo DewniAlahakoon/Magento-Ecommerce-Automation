@@ -13,7 +13,7 @@ This repository contains an automation project focused on testing the key module
 - **Data-Driven Testing (DDT)**: Fetching data from properties files and Excel files
 - **Reporting Framework**: Extent Reports
 - **Build Automation Tool**: Maven
-- **CI/Cd Integration**: Jenkins
+- **CI/CD Integration**: Jenkins
 
 ## 🏗️ Project Design
 - **Page Object Model (POM)**
@@ -29,7 +29,7 @@ The framework generates HTML reports for all test classes, stored in the reports
 2. Login test
 ![image](https://github.com/user-attachments/assets/29394513-5150-44ec-91bc-e049dae718bc)
 
-3. Register test
+3. User Registration test
 ![image](https://github.com/user-attachments/assets/dd4fe669-ac86-47b0-b404-25280b221c84)
 
 ## 🎬 Project Demonstration
