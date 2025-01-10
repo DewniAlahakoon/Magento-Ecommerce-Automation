@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="MagentoTestSuite">
+    <test name="LoginTests">
+        <classes>
+            <class name="com.softwaretestingboard.magento.T1_RegisterPageTest"/>
+            <class name="com.softwaretestingboard.magento.T2_LoginPageTest"/>
+            <class name="com.softwaretestingboard.magento.T3_ShoppingFlowTest"/>
+        </classes>
+    </test>
+</suite>
