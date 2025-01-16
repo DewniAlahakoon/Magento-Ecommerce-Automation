@@ -27,9 +27,11 @@ The framework generates HTML reports for all test classes, stored in the reports
 ![image](https://github.com/user-attachments/assets/869f12ca-296b-4959-8ba3-5fe748a9f6f2)
 
 2. Login test
+![image](https://github.com/user-attachments/assets/c00b2e64-e412-4d63-a952-e0be6da4d378)
 ![image](https://github.com/user-attachments/assets/29394513-5150-44ec-91bc-e049dae718bc)
 
 3. User Registration test
+![image](https://github.com/user-attachments/assets/501cdc88-148d-4a0a-9aee-e5866e9e99f2)
 ![image](https://github.com/user-attachments/assets/dd4fe669-ac86-47b0-b404-25280b221c84)
 
 ## 🎬 Project Demonstration
