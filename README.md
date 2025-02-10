@@ -10,9 +10,8 @@ This repository contains an automation project focused on testing the key module
 - **IDE**: IntelliJ IDEA
 - **Testing Framework**: TestNG
 - **Build Automation Tool**: Maven
-- **Data-Driven Testing (DDT)**: Fetching data from properties files and Excel files
+- **Data-Driven Testing (DDT)**: Fetching data from properties files and Excel files using Apache POI
 - **Reporting Framework**: Extent Reports
-- **Build Automation Tool**: Maven
 - **CI/CD Integration**: Jenkins
 
 ## 🏗️ Project Design
